@@ -1,8 +1,4 @@
 public class tast a{
     第四行
 }
-<<<<<<< HEAD
 第三行abc
-=======
-第三行bbb
->>>>>>> b8d99a5d08307352cd8079b18f2dfd80a4eaea56
